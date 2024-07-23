@@ -120,14 +120,14 @@
     margin-right: 5%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content:center;
     align-items: center;
 }
 
 .ftr-copy > div {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center; 
     align-items: center;
 }
 
@@ -139,13 +139,13 @@
 .ftr-net {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     padding: 5px;
 }
 
 .ftr-net > div {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     width: 120px;
 }
@@ -187,14 +187,14 @@
     }
 }
 
-.ftr-akash {
-    font-family: 'Dancing Script', cursive !important;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
+.ftr-aparna {
+    font-family: 'fantasy' !important;
+    font-family:  sans-serif;
+    font-weight: 300;
     display: flex;
     justify-content: center;
     font-size: 1.5rem;
-    filter: drop-shadow(2px 2px 4px rgb(11, 8, 46));
+    filter: drop-shadow(2px 2px 4px rgba(11, 8, 46, 0.142));
     border-top: 1px solid rgba(0, 0, 0, 0.236);
     padding: 10px 0px 0px 0px;
     margin-right: 5%;
